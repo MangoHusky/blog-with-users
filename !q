@@ -1,0 +1,23 @@
+[33mcommit 8497618c88b507f55367ed08c5db6d4363ea5f5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Simon <simonrod2404@gmail.com>
+Date:   Tue Mar 21 16:36:16 2023 -0500
+
+    delete trash library
+
+[33mcommit 172a5f736965013bbf5d1ee8f337fa680c21c94f[m
+Author: Simon <simonrod2404@gmail.com>
+Date:   Tue Mar 21 16:30:31 2023 -0500
+
+    add requirements
+
+[33mcommit 17faeddfe3ea382323f908eec51c4fa80fb0be0e[m
+Author: Simon <simonrok123@gmail.com>
+Date:   Tue Mar 21 16:14:59 2023 -0500
+
+    add requirements.txt
+
+[33mcommit 6258bbaa874287dcc6b4bd5b718693f183ff307c[m
+Author: Simon <simonrok123@gmail.com>
+Date:   Tue Mar 21 15:59:29 2023 -0500
+
+    Initial Commit
